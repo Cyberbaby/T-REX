@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/Dark-Knight-Hiruwa"> HIRUWA</a> T
 
   <p align="center">
   <a href="https://github.com/Dark-Knight-Hiruwa">
-    <img src="https://img.shields.io/github/repo-size/Dark-Knight-Hiruwa/T-REX?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Cyberbaby/T-REX?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/Dark-Knight-Hiruwa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dark-Knight-Hiruwa?color=blue&style=flat-square"></a>
 <a href="https://github.com/Dark-Knight-Hiruwa/T-REX/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/Dark-Knight-Hiruwa/T-REX?color=blue&style=flat-square"></a>
@@ -41,7 +41,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GT5V8RakkftB7DAKWMeQML)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX&theme=nightowl)](https://github.com/Dark-Knight-Hiruwa/T-REX)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dark-Knight-Hiruwa&repo=T-REX&theme=nightowl)](https://github.com/Cyberbaby/T-REX)
   </div>
     
 ## Setup
